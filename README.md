@@ -16,3 +16,4 @@ This document will contain short notes, references, code snippets as well as tip
 ### React JS short notes, basics, tips and tricks
 
 1. [React JS basics](react-docs/react-js-basics.md)
+2. [Third party library installation and integration](react-docs/third-party-library.md)
