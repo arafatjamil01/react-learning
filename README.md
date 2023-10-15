@@ -8,6 +8,7 @@ This document will contain short notes, references, code snippets as well as tip
 1. [Official react documentation](https://react.dev/)
 2. [Getting started with nextJS, Remix, Gatsby, Expo](https://react.dev/learn/start-a-new-react-project)
 3. [Getting started with vite](https://vitejs.dev/guide/#scaffolding-your-first-vite-project)
+4. [React developer tools chrome extension](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi/)
 
 ### VSCode shortcuts
 
